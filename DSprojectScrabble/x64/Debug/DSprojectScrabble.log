@@ -1,0 +1,5 @@
+﻿  Scrabble.cpp
+D:\Study\4th Semester\DS\VS codes\DSprojectScrabble\Scrabble.cpp(923,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\4th Semester\DS\VS codes\DSprojectScrabble\Scrabble.cpp(462): warning C4715: 'board::placeword': not all control paths return a value
+D:\Study\4th Semester\DS\VS codes\DSprojectScrabble\Scrabble.cpp(738): warning C4715: 'board::checkadjacentletters': not all control paths return a value
+  DSprojectScrabble.vcxproj -> D:\Study\4th Semester\DS\VS codes\DSprojectScrabble\x64\Debug\DSprojectScrabble.exe
